@@ -1,0 +1,29 @@
+Notes:
+
+Day 1:
+
+1. Print statement: eg) print(“Hello World”)
+2. String concatenation: eg) print(“Hello” + “ “ + “World”)
+3. Input statement (To take an input): eg) input(“What is your name?”)
+4. Variables(Should be one word / can’t begin with numbers) 
+Eg) 
+name = input(“What is your name?”)
+print(name)
+length = len(name) 
+print(length)
+
+
+Day 2:
+
+1. Data types: String, integer, float, boolean 
+2. We cannot concatenate string with an integer 
+3. To check the data type: 
+Eg) 
+a=123
+print(type(a))
+4. To round a number:
+Eg) 
+print(round(2.6666,2))
+Answer: 2.67 (Here, I rounded it to 2 decimal places)
+
+
